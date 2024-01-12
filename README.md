@@ -21,4 +21,4 @@ Tecnologias: <br>
 
 ## Sobre mim:
 
-#### Sou apaixonado por tecnologia😍 <br> Aprendiz autodidata🤓 <br> Estudando desenvolvimento WEB💻 <br> Sou pai da Eloa e do Theo👨‍👦‍👧 <br> Eu amo jogar nos tempo livre🎮 <br> Amo passar um tempo com a família👨‍👩‍👦‍👧
+#### Sou apaixonado por tecnologia😍 <br> Aprendiz autodidata🤓 <br> Estudando desenvolvimento WEB💻 <br> Sou pai da Eloa e do Theo👨‍👦‍👧 <br> Eu amo jogar no meu tempo livre🎮 <br> Amo passar um tempo com a família👨‍👩‍👦‍👧
