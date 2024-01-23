@@ -5,7 +5,7 @@
 🔗Conecte-se comigo:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gui643216@gmail.com)
-[![Discord](https://res.cloudinary.com/practicaldev/image/fetch/s--kDil9AKc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Discord-7289DA%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite)](https://discord.com/invite/https://discord.gg/CwpVGHtF)
+[![Discord](https://res.cloudinary.com/practicaldev/image/fetch/s--kDil9AKc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Discord-7289DA%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite)](/https://discord.gg/CwpVGHtF)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516988287084?text=Olá%20Gui%20Tudo%20bem?)
 [![WhatsApp](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui-web-developer/)
 
